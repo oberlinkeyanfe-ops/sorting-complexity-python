@@ -27,7 +27,7 @@ python complexity_sort.py
 
 Arrays are random, so the exact numbers change on each run, but the shape of the curves stays the same.
 
-Related repository: [Complexity_with_R](https://github.com/oberlinkeyanfe-ops/Complexity_with_R), where the same comparison is measured in R with the `atime` package.
+Related repository: [sorting-complexity-r](https://github.com/oberlinkeyanfe-ops/sorting-complexity-r), where the same comparison is measured in R with the `atime` package.
 
 ---
 
